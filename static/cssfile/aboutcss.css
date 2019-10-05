@@ -1,0 +1,41 @@
+. {
+    text-align: justify;
+    font-family: monospace;
+    font-size: 20px;
+    word-spacing: 0.1em;
+}
+.image{
+    height: 250px;
+    width: 250px;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    border: 2px solid slategray;
+    padding: 2px;
+
+}
+
+
+.resize form {
+    width: 700px;
+    height: 380px;
+    top:82%;
+    left:50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    border-radius: 10px ;
+    padding: 70px 30px;
+    color: black;
+    font-family: "Script MT Bold";
+    font-size: 22px;
+    background-color: dimgray;
+
+
+}
+
+.about label{
+    font-size: 22px;
+    font-family: "Sitka Display";
+    color: whitesmoke;
+}
