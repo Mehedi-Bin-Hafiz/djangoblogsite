@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc9c13fa-3464-4781-b437-17c7daa1fe8c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/blogsite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogsite/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="cc9c13fa-3464-4781-b437-17c7daa1fe8c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blogsite/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="74" selection-start-line="74" selection-end-line="74" />
+            <state relative-caret-position="240">
+              <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
             </state>
           </provider>
         </entry>
@@ -201,8 +199,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blogsite/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        <state relative-caret-position="240">
+          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
         </state>
       </provider>
     </entry>
