@@ -25,7 +25,7 @@ SECRET_KEY = '0dcnurtj=(bo91-hm8f9+dekui3wn44jluk9)6$c&1fd+_g8=s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['mehedibinhafiz.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -81,7 +81,7 @@ WSGI_APPLICATION = 'blogsite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': 'db.sqlite3',
+        'NAME' : 'db.sqlite3',
     }
 }
 
